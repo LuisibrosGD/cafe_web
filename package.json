@@ -1,0 +1,20 @@
+{
+  "name": "lumbre-cafe",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Landing page de Lumbre, café de tueste propio en Barranco, Lima.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.4",
+    "vite": "^7.1.12"
+  }
+}
